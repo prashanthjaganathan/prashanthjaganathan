@@ -2,7 +2,7 @@
 
 **ML engineer who ships AI systems end-to-end**, from architecture and training through serving, evaluation, and production monitoring. I care about systems that hold up under real constraints, not demos.
 
-MS in Artificial Intelligence, Northeastern University (2026) · Based in Boston, MA · Open to relocate
+MS in Artificial Intelligence, Northeastern University, Bostom (2026)
 
 > Build carefully, instrument everything, stay accountable through delivery.
 
