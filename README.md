@@ -1,6 +1,6 @@
 # Hi, I'm Prashanth
 
-**ML engineer who ships AI systems end-to-end**, from architecture and training through serving, evaluation, and production monitoring. I care about systems that hold up under real constraints, not demos.
+**AI/ML engineer who ships AI systems end-to-end**, from architecture and training through serving, evaluation, and production monitoring. I care about systems that hold up under real constraints, not demos.
 
 MS in Artificial Intelligence, Northeastern University, Boston 
 
