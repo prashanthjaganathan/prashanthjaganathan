@@ -11,7 +11,7 @@
 I build production agentic and ML systems: LangGraph agents, multimodal RAG pipelines, LLM evaluation infrastructure, and the low-latency serving layers underneath them. Most of my recent work lives in healthcare and regulated environments, where correctness is not optional and the users are real people.
 
 **Recent highlights**
-- First AI engineer at **Polygon Health**, where I shipped a conversational medical-records agent over patient FHIR data solo: guardrailed LLM-to-SQL, SSE streaming over a Postgres checkpointer, and request-scoped isolation. Cut p95 latency 38% and failed requests 91%.
+- I shipped a conversational medical-records agent over patient FHIR data: guardrailed LLM-to-SQL, SSE streaming over a Postgres checkpointer, and request-scoped isolation. Cut p95 latency 38% and failed requests 91%.
 - Built an FDA regulatory document platform at **GlaxoSmithKline** from 0 to production in two months, with a multimodal RAG pipeline and an LLM-as-Judge eval framework in CI/CD that reduced hallucinations 42%.
 - Granted **Indian Patent No. 575220** for an end-to-end waste management system spanning computer vision, IoT, and a solar-powered plastic-to-bio-oil pyrolysis reactor.
 
