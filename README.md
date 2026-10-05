@@ -17,7 +17,7 @@ I build production agentic and ML systems: LangGraph agents, multimodal RAG pipe
 
 ---
 
-### Selected projects
+### Projects
 
 **[Boston Pulse](https://github.com/himabindu-peramala/Boston-pulse)** — Civic intelligence platform for safe pedestrian navigation. GCP-native MLOps app with an Airflow-orchestrated pipeline training a LightGBM crime-risk model via GitHub Actions CI/CD, serving H3 safety scores from Firestore.
 
@@ -29,7 +29,7 @@ I build production agentic and ML systems: LangGraph agents, multimodal RAG pipe
 
 ---
 
-### Toolbox
+### Tools
 
 `Python` `TypeScript` · `PyTorch` `LangGraph` `FastAPI` `React` · `Docker` `Kubernetes` · `GCP` `AWS` · `PostgreSQL` `Redis` · RAG · LLM-as-Judge · Hybrid Search
 
